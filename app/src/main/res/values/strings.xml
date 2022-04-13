@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Railway Manager</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_maps2">MapsActivity2</string>
+    <string name="title_activity_maps3">MapsActivity3</string>
+    <string name="title_activity_maps4">MapsActivity4</string>
+</resources>
